@@ -59,7 +59,7 @@ vantra-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/vantra-ai.git
+git clone https://github.com/ArtemisOS-Foundation/Vantra-AI.git
 cd vantra-ai
 ```
 
