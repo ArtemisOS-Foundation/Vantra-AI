@@ -1,0 +1,16 @@
+.env
+config.ini
+secrets.json
+keys/
+*.db
+*.sqlite
+*.sqlite3
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+.vscode/
+.idea/
